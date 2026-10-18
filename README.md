@@ -1,4 +1,4 @@
-# NovaGen Health Risk ML — Assignment 5
+# NovaGen Health Risk ML 
 
 ## Project overview
 A Streamlit application for the provided NovaGen assignment dataset. It compares Logistic Regression, Random Forest, and Gradient Boosting classifiers for the `Target` column.
